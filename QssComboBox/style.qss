@@ -46,7 +46,7 @@ QComboBox QAbstractItemView::item:selected
 /******** combobox 滚动条  *********/
 QComboBox QScrollBar::vertical{
     /*主体部分*/
-    background-color:#f6f5ecs;
+    background-color:#f6f5ec;
     width:15px;
 }
 
