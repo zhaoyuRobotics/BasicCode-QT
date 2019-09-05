@@ -4,5 +4,5 @@
 ##  图片：
 
 <div align=center>
-<img src="https://github.com/zhaoyuRobotics/QT/blob/Qss/Gif/Progress.gif" width="300" height="250" align=center/>
+<img src="https://github.com/zhaoyuRobotics/QT/blob/Qss/Gif/Progress.gif" width="753" height="300" align=center/>
 </div>
