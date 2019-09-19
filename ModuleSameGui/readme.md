@@ -4,5 +4,8 @@
 
 ### 主要看Form类的头文件中几个set,get函数 ###  
 
+https://github.com/zhaoyuRobotics/QT/blob/master/ModuleSameGui/image/Modular_same_interface.gif
+
+
 
 
