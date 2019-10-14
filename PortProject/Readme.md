@@ -48,9 +48,9 @@
   
   
 5.本程序串口接收用的是信号和曹:  
-
-  核心:  
-      connect(my_serialport,SIGNAL(readyRead()),this,SLOT(receiveData()));
+  
+  核心:    
+  connect(my_serialport,SIGNAL(readyRead()),this,SLOT(receiveData()));
 
 
 6.示例中 要发字符串就按照输入的字符对应的AScall码发送， 要发送数字就选择界面中的Hex，此模式试讲输入字符串转换为一样的数字发送
