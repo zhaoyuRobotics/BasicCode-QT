@@ -3,7 +3,7 @@
 ### 总结: ###  
 
 
-1.getSerialPortNames()           //获取串口号
+**1.getSerialPortNames()           //获取串口号**
   用途:将获取到的端口号写在串口的COMBO BOX控件上,这个端口号要在配置串口时需要,如下:  
   
   QString comname=ui->serialport->currentText();  
