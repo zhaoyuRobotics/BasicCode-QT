@@ -22,11 +22,11 @@
 
 3.sendData()                    //发送数据  
 
-  用途:将字符串(12345或者hello在plain text edit控件上都是字符串) 追加在QBytearray上发送出去.程序中发送方式有两种,一种是以字符串形式发送,一种是以十六进制发送,其实这两种方式可以归为一种:  
+  用途:将字符串(12345或者hello在plain text edit控件上都是字符串) 追加在QBytearray上发送出去.程序中发送方式有两种,一种是以字符串形式发送,一种是以数字发送,其实这两种方式可以归为一种:  
   
   第一种:发送'A'   存储在QBytearray中的形式就是:0100 0001(41).  
   
-  第二种:发送'A'   首相讲'A'转换为0100 0001,然后存储在QBytearray中.  
+  第二种:发送'1'   将字符'1'变为数字,然后存储在QBytearray中.  
   
   
 4.receiveData()                 //接收数据  
@@ -50,7 +50,6 @@
 5.本程序串口接收用的是信号和曹:  
 
   核心:  
-  
       connect(my_serialport,SIGNAL(readyRead()),this,SLOT(receiveData()));
 
 
