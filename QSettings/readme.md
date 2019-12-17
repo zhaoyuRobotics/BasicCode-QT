@@ -6,5 +6,5 @@
 
 
 <div align=center>
-<img src="https://github.com/zhaoyuRobotics/ZY_Study4/blob/master/image/1.png" width="250" height="250" align=center/>
+<img src="https://github.com/zhaoyuRobotics/QT/blob/master/QSettings/image/1.png" width="250" height="250" align=center/>
 </div>
