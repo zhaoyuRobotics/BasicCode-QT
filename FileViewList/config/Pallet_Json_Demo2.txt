@@ -1,0 +1,66 @@
+{
+  "file_name":"example_file",
+  "coordinate":"base",
+  "Destack":{
+ 	"Row_number":3,
+	"Column_number":3,
+	"Layer_number":3,
+	"Row_offset":10,
+	"Column_offset":10,
+	"Layer_offset":10,
+	"Pose":[
+	 	x,
+	 	y,
+	 	z,
+	 	Rx,
+	 	Ry,
+	 	Rz
+	]
+   },
+  "Stack":{
+ 	"Row_number":3,
+	"Column_number":3,
+	"Layer_number":3,
+	"Row_offset":10,
+	"Column_offset":10,
+	"Layer_offset":10,
+	"Pose":[
+	 	x,
+	 	y,
+	 	z,
+	 	Rx,
+	 	Ry,
+	 	Rz
+	]
+   },
+  "Robot_Param":{
+	"Joint_Speed":20,
+	"Joint_Acc":20,
+	"Line_Speed":20,
+	"Line_Acc":20,
+	"Arrival Ahead":false,
+	"Prepare_Point_Height":100,
+	"Tool_Close_time":0,
+	"Tool_Open_Time":0,
+	"into dirtion":"layer",
+	"Out dirtion":"layer"
+   },
+  "Tool":{
+	"Gripper":{
+	    "is use":true,
+ 	    "Close_Position":255,
+ 	    "Open_Position":100
+	},
+	"User_IO_Output":{
+	     "is use":true,
+	     "Digital_IO_OUT_01":0,
+	     "Digital_IO_OUT_02":1,
+	},
+	"Tool_IO_Output":{
+	      "is use":false
+	},
+	"User_IO_Input":{
+	      "is use":false
+	}
+   }
+}
