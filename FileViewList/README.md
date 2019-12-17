@@ -12,5 +12,5 @@
 
 
 <div align=center>
-<img src="https://github.com/zhaoyuRobotics/ZY_Study3/blob/master/resourse/Result.png" width="800" height="550" align=center/>
+<img src="https://github.com/zhaoyuRobotics/QT/blob/master/FileViewList/resourse/Result.png" width="800" height="550" align=center/>
 </div>
