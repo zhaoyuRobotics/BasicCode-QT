@@ -1,7 +1,7 @@
 ### 示例程序说明
 
 <div align=center>
-<img src="https://github.com/zhaoyuRobotics/ZY_Study/blob/master/image/WidgetTest.jpg" width="800" height="500" align=center/>
+<img src="https://github.com/zhaoyuRobotics/QT/blob/Qss/widgetLayout/image/WidgetTest.jpg" width="800" height="500" align=center/>
 </div>
 
 
