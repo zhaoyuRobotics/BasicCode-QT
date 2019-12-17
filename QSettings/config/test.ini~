@@ -1,0 +1,20 @@
+[SerialPort]
+port=115200
+
+[fridge]
+fridge\color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\xff\xff\xff\xff\0\0)
+fridge\size=@Size(32 96)
+
+[windows]
+color=#ffffff
+isdisplay=true
+list\1\number=0
+list\2\number=1
+list\3\number=2
+list\4\number=3
+list\5\number=4
+list\size=5
+
+
+
+sdfsg
