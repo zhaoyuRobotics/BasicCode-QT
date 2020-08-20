@@ -13,3 +13,7 @@
 <br>
 2.git stash  
 
+**linux欠缺点：**
+<br>
+1.debian + apt　封包，安装方式  
+
