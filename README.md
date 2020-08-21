@@ -8,7 +8,6 @@
 <br>
 
 **Git欠缺点：**  
-<br>
 1.git rebase
 <br>
 2.git stash  
@@ -16,4 +15,4 @@
 **linux欠缺点：**
 <br>
 1.debian + apt　封包，安装方式  
-
+2.frp远程更新软件－－请教坚哥
